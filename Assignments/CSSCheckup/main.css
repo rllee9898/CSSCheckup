@@ -1,0 +1,8 @@
+/* rule-set #5: All the li items within the css-classes class will have a blue font. */.css-classes li{
+    color:navy;
+}
+
+/* rule-set #1 */
+#number-one{
+    color:magenta;
+}
