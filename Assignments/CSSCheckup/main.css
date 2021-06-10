@@ -1,8 +1,53 @@
-/* rule-set #5: All the li items within the css-classes class will have a blue font. */.css-classes li{
-    color:navy;
+/*rule-set #1: Everything within the body tag will have a blue background. */
+body {
+    background-color:rgb(104, 104, 124);
+}
+
+/* rule-set #2: Everything within a css-classes class will have a lightgray background. */
+.css-classes {
+    background-color: lightgray;
 }
 
 /* rule-set #1 */
 #number-one{
-    color:magenta;
+    color:rgb(252, 252, 252);
+}
+
+#margin-experiment1{
+    height: 40px;
+    background: blue;
+      border: 5px solid rgb(252, 0, 42);
+      margin: 0px 0px 0px 0px;
+}
+
+#margin-experiment2{
+    height: 40px;
+    background: rgb(2, 238, 21);
+       border: 5px solid rgb(237, 241, 0);
+       margin: 0px 0px 0px 0px;
+}
+
+.wrapper{
+    margin: 5px;
+}
+
+h2{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+/* 5 */
+.background2 {
+    background-image:url(https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-creative-minimalist-smoke-black-background-image_82990.jpg);
+}
+
+.example2 img{
+    width: 800px;
+    height: 400px;
+    
+}
+
+.border-color{
+    Margin: 10px;
+    border-style: solid;
+    border-color: rgb(34, 0, 34);
 }
