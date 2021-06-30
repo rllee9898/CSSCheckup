@@ -1,0 +1,9 @@
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\00_CustomerChallenge\obj\Debug\netcoreapp3.1\00_CustomerChallenge.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\00_CustomerChallenge\obj\Debug\netcoreapp3.1\00_CustomerChallenge.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\00_CustomerChallenge\obj\Debug\netcoreapp3.1\00_CustomerChallenge.AssemblyInfo.cs
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\00_CustomerChallenge\obj\Debug\netcoreapp3.1\00_CustomerChallenge.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\00_CustomerChallenge\bin\Debug\netcoreapp3.1\00_CustomerChallenge.deps.json
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\00_CustomerChallenge\bin\Debug\netcoreapp3.1\00_CustomerChallenge.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\00_CustomerChallenge\bin\Debug\netcoreapp3.1\00_CustomerChallenge.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\00_CustomerChallenge\obj\Debug\netcoreapp3.1\00_CustomerChallenge.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\00_CustomerChallenge\obj\Debug\netcoreapp3.1\00_CustomerChallenge.pdb

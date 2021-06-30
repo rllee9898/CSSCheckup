@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\02_ConditionalAndLoops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\02_ConditionalAndLoops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\02_ConditionalAndLoops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\02_ConditionalAndLoops\bin\Debug\02_ConditionalAndLoops.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\02_ConditionalAndLoops\bin\Debug\02_ConditionalAndLoops.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\02_ConditionalAndLoops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\02_ConditionalAndLoops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\02_ConditionalAndLoops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\02_ConditionalAndLoops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\02_ConditionalAndLoops\obj\Debug\02_ConditionalAndLoops.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\02_ConditionalAndLoops\obj\Debug\02_ConditionalAndLoops.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\02_ConditionalAndLoops\obj\Debug\02_ConditionalAndLoops.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\02_ConditionalAndLoops\obj\Debug\02_ConditionalAndLoops.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\02_ConditionalAndLoops\obj\Debug\02_ConditionalAndLoops.pdb

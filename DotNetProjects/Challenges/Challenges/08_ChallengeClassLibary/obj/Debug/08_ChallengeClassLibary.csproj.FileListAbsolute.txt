@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\08_ChallengeClassLibary\obj\Debug\08_ChallengeClassLibary.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\08_ChallengeClassLibary\obj\Debug\08_ChallengeClassLibary.csproj.CoreCompileInputs.cache

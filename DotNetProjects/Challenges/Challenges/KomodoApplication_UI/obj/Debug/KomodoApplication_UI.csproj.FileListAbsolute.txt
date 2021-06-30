@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\KomodoApplication_UI\obj\Debug\KomodoApplication_UI.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\KomodoApplication_UI\obj\Debug\KomodoApplication_UI.csproj.CoreCompileInputs.cache

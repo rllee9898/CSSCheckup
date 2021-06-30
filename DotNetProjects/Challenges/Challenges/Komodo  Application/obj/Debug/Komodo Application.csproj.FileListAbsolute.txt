@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\Komodo  Application\bin\Debug\Komodo  Application.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\Komodo  Application\bin\Debug\Komodo  Application.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\Komodo  Application\obj\Debug\Komodo Application.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\Komodo  Application\obj\Debug\Komodo Application.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\Komodo  Application\obj\Debug\Komodo  Application.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\Komodo  Application\obj\Debug\Komodo  Application.pdb
